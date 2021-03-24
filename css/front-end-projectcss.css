@@ -1,0 +1,20 @@
+/* main used colors */
+.bg-color1{background-color: #50658e;}
+.bg-color2{background-color: #2a81ea;}
+.text-color1{color:#50658e}
+.text-color2{color:#2a81ea}
+/*navbar Section*/
+.nav-link{color:#50658e ;
+           font-weight: 600 !important;}
+.nav-link:hover{color:#2a81ea !important;}
+.homelink{color:#2a81ea ;}  
+a{text-decoration: none;}
+/* FAQ section*/
+.QAlist div p , .QAlist div div {display: none;}
+.QAlist div{padding-top:15px !important;padding-bottom:0px !important;}
+.QAlist div li{cursor:pointer}
+.QAlist div li:hover{color:#2a81ea}
+.MainQAlist li{cursor:pointer}
+.MainQAlist li:hover{border:2px solid #2a81ea !important;color:#2a81ea}
+.activeitem{border:2px solid #2a81ea !important;color:#2a81ea}
+
